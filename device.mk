@@ -37,7 +37,8 @@ PRODUCT_PACKAGES += \
     OnePlus7TProFrameworks \
     OnePlus7TProSettings \
     OnePlus7TProSettingsProvider \
-    OnePlus7TProSystemUI
+    OnePlus7TProSystemUI \
+    ApertureOverlay
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
